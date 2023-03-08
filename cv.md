@@ -2,11 +2,7 @@
 
 ## Nikolay Krishtopa
 
-### Frontend developer
-
-- Location: Batumi
-- Ready to relocate
-- Ready for business trips
+## Frontend developer
 
 ---
 
@@ -16,6 +12,9 @@
 - Telegram: @Nikolay_Krishtopa
 - [Email](mailto:nikolay.krishtopa@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nikolay-krishtopa/)
+- Location: Batumi
+- Ready to relocate
+- Ready for business trips
 
 ---
 
