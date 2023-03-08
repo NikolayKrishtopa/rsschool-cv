@@ -1,3 +1,3 @@
 # rsschool-cv
 
-(https://NikolayKrishtopa.github.io/rsschool-cv/cv)
+[Link to CV](https://NikolayKrishtopa.github.io/rsschool-cv/cv)

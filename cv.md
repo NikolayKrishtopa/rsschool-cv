@@ -29,6 +29,8 @@
 - Webpack
 - NodeJS
 
+---
+
 ## Education:
 
 #### Bauman Moscow Technical State University, master degree
@@ -48,6 +50,8 @@
 - 2023 - present
 - Speciality: JavaScript/Front-end
 
+---
+
 ## Work experience:
 
 #### Weber, frontend developer
@@ -65,10 +69,14 @@
 - 2011 -2022
 - focusing on the sustain of the airplanes production. Lean/scrum methods. The team was counting up to 25 persons. Daily work in English language. Long-term business trips to the head office and factory in USA. Have an experience of the leading the group up to 15 persons. Have improved a few work process. Many times got an excellent feedback from the management and customers. Employee of the year in 2021.
 
+---
+
 ## Languages:
 
 - Russian - native
 - English - upper-intermediate
+
+---
 
 ## About myself
 
@@ -80,28 +88,19 @@ I was leading the team counting from 10 to 12 people working for the big and ver
 
 When I have some time for myself I like skiing and cycling as well as reading. Also I like travelling.
 
-### The code example
+---
+
+## The code example
+
+**RGB To Hex Conversion (Codewars):**
+The rgb function is incomplete. Complete it so that passing in RGB decimal values will result in a hexadecimal representation being returned. Valid decimal values for RGB are 0 - 255. Any values that fall out of that range must be rounded to the closest valid value.
+
+Note: Your answer should always be 6 characters long, the shorthand with 3 will not work here.
 
 ```
-export const createNewSection = createAsyncThunk<
-  void,
-  { newSectionName: string; token: string },
-  { rejectValue: string }
->(
-  'sections/createSection',
-  async function ({ newSectionName, token }, { dispatch, rejectWithValue }) {
-    try {
-      const res = await fetch(`${BASE_URL}sections?section=${newSectionName}`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ token }),
-      })
-      if (!res.ok) {
-        throw new Error('Ошибка при создании новой секции на сервере')
-      } else dispatch(getSections())
-    } catch (err: any) {
-      return rejectWithValue(err.message)
-    }
-  }
-)
+function rgb(r, g, b){
+  const limitRange = n => n < 0 ? 0 : n > 255 ? 255 : n
+  const formatTwoDigits = str => str.length < 2 ? '0'+str : str
+  return [r,g,b].map(e=>formatTwoDigits(limitRange(e).toString(16))).join('').toUpperCase()
+}
 ```
