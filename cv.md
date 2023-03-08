@@ -29,6 +29,8 @@
 - Webpack
 - NodeJS
 
+---
+
 ## Education:
 
 ### Bauman Moscow Technical State University, master degree
@@ -48,6 +50,8 @@
 - 2023 - present
 - Speciality: JavaScript/Front-end
 
+---
+
 ## Work experience:
 
 ### Weber, frontend developer
@@ -65,10 +69,14 @@
 - 2011 -2022
 - focusing on the sustain of the airplanes production. Lean/scrum methods. The team was counting up to 25 persons. Daily work in English language. Long-term business trips to the head office and factory in USA. Have an experience of the leading the group up to 15 persons. Have improved a few work process. Many times got an excellent feedback from the management and customers. Employee of the year in 2021.
 
+---
+
 ## Languages:
 
 - Russian - native
 - English - upper-intermediate
+
+---
 
 ## About myself
 
@@ -79,6 +87,8 @@ However, after some years I realized that was time to move further because it ha
 I was leading the team counting from 10 to 12 people working for the big and very important project. After implementing that I got very high assessment from my management.
 
 When I have some time for myself I like skiing and cycling as well as reading. Also I like travelling.
+
+---
 
 ## The code example
 
