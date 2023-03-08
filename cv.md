@@ -16,6 +16,18 @@
 
 ---
 
+## About myself
+
+I extremely love being involved in the creating of some fantastic products, mostly that’s why I had been an engineer for the Boeing company for a long time: when you’re looking at the taking off airplane which was designed and produced with your even small contribution – that’s absolutely breathtaking.
+
+However, after some years I realized that was time to move further because it had been gradually harder to find personal challenges and being continuously improving my skills. It was time to try to leave “comfort zone” and open something new for me. I got interested at the web development (as a hobby first) and after some practice I decided to move to this business. As I am pretty experienced with work for huge international company, I have English fluent language skills (Upper-intermediate), aware of Lean and SCRUM. In addition, my experience allowed me to improve my soft-skills. I’m always open for studying something new and never avoid that. I’m never scared of the difficult tasks but get motivated of them.
+
+I was leading the team counting from 10 to 12 people working for the big and very important project. After implementing that I got very high assessment from my management.
+
+When I have some time for myself I like skiing and cycling as well as reading. Also I like travelling.
+
+---
+
 ## Technologies stack:
 
 - HTML
@@ -75,18 +87,6 @@
 
 - Russian - native
 - English - upper-intermediate
-
----
-
-## About myself
-
-I extremely love being involved in the creating of some fantastic products, mostly that’s why I had been an engineer for the Boeing company for a long time: when you’re looking at the taking off airplane which was designed and produced with your even small contribution – that’s absolutely breathtaking.
-
-However, after some years I realized that was time to move further because it had been gradually harder to find personal challenges and being continuously improving my skills. It was time to try to leave “comfort zone” and open something new for me. I got interested at the web development (as a hobby first) and after some practice I decided to move to this business. As I am pretty experienced with work for huge international company, I have English fluent language skills (Upper-intermediate), aware of Lean and SCRUM. In addition, my experience allowed me to improve my soft-skills. I’m always open for studying something new and never avoid that. I’m never scared of the difficult tasks but get motivated of them.
-
-I was leading the team counting from 10 to 12 people working for the big and very important project. After implementing that I got very high assessment from my management.
-
-When I have some time for myself I like skiing and cycling as well as reading. Also I like travelling.
 
 ---
 
