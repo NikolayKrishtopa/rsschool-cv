@@ -1,4 +1,4 @@
-# rsschool-cv
+# [ rsschool-cv] (https://NikolayKrishtopa.github.io/rsschool-cv/)
 
 ## Nikolay Krishtopa
 
@@ -8,12 +8,16 @@
 - Ready to relocate
 - Ready for business trips
 
+---
+
 ### Contact information:
 
 - phone: +995-579-05-44-95
 - Telegram: @Nikolay_Krishtopa
 - [Email](mailto:nikolay.krishtopa@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/nikolay-krishtopa/)
+
+---
 
 ### Technologies stack:
 
